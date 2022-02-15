@@ -5,12 +5,8 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
-  background: rgb(180,58,58);
-  background: radial-gradient(circle, 
-  rgba(180,58,58,0.3799719716988358) 10%, 
-  rgba(43,57,218,0.8113445207184437) 39%, 
-  rgba(253,29,29,0.6852941005503764) 66%, 
-  rgba(252,176,69,1) 100%); 
+  
+  background: #ffbfc3;
 }
 
 .container {
