@@ -120,7 +120,7 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 45%;
+  max-width: 60%;
   height: auto;
 }
 
@@ -234,6 +234,7 @@ body {
 #replay {
   z-index: 3;
   cursor: pointer;
+  color: #04018b;
 }
 
 /* Media Queries */
@@ -266,8 +267,12 @@ body {
     width: 90%;
   }
 
-  .one,.two,.three,.four,.five p{
-    font-size: 1.5rem;
+  .one{
+    font-size: 3rem;
+  }
+  
+  .two,.three,.four,.five p{
+    font-size: 1.6rem;
   }
 
   .four .text-box {
@@ -293,7 +298,7 @@ body {
   }
 
   .wish-hbd {
-    font-size: 2.3em;
+    font-size: 2.3rem;
   }
 
   .wish h5 {
